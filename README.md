@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Jhon Santana 👋 
+
+![Jhon-Santana-Dev](https://user-images.githubusercontent.com/44902547/95610518-127aba00-0a26-11eb-8347-0a486d4c0f4c.jpeg)
+
+``` js
+const jassdev = {
+pronouns: 'he' | 'him',
+code: ['javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
+tools: ['Angular', 'Bootstrap', 'Nodejs', 'mySQL', 'Mongo']
+}
+```
+You can find me :arrow_heading_down:
+- [Twitter](https://twitter.com/Alexx_1208)
+- [LinkedIn](https://www.linkedin.com/in/jhonalexsantana/)
+- [Instagram](https://www.instagram.com/jalexx_s/)
 
 <!--
 **Jalexx08/Jalexx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
