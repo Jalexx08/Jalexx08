@@ -6,7 +6,7 @@
 const jassdev = {
 pronouns: 'he' | 'him',
 code: ['javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
-tools: ['Angular', 'Bootstrap', 'Nodejs', 'mySQL', 'Mongo']
+tools: ['Angular','React', 'Bootstrap', 'Nodejs','Express', 'mySQL', 'Mongo']
 }
 ```
 You can find me :arrow_heading_down:
